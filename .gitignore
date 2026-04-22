@@ -1,0 +1,15 @@
+# Ignore everything by default
+*
+
+# Keep git metadata files
+!.gitignore
+!.gitattributes
+
+# Keep updater artifacts
+!latest.yml
+!*Setup*.exe
+!*Setup*.exe.blockmap
+
+# Optional docs
+!README.md
+
